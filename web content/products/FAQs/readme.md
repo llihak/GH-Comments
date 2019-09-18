@@ -4,4 +4,4 @@
 
 [the forum post](https://forum.metastock.com/postmessage?m=183017)
 
-The main content is inside an html table that cannot be edited in the forum wysiwyg.
+The main content is inside an html table that cannot be edited in the forum wysiwyg.   Just edit the file here and paste it into the forum post - **CODE VIEW** - NOT wysiwyg view !!!
