@@ -1,0 +1,162 @@
+#hero {
+    height: 100%;
+    width: 100%;
+}
+
+.hero.rw {
+    justify-content: center;
+    position: relative;
+}
+
+#hero .container.rw {
+    padding: 0;
+    height: 100%;
+}
+
+section#hero {
+    padding: 0 !important;
+}
+
+#hero {
+    position: relative;
+    background: url("https://www.metastock.com/images/i/Hero-Phone-v-012519.jpg");
+    height: 100%;
+    width: 100%;
+}
+
+.hero.rw {
+    justify-content: center;
+    position: relative;
+}
+
+#hero .container.rw {
+    padding: 0;
+    height: 100%;
+}
+
+#hero {
+    position: relative;
+    background: url("https://www.metastock.com/images/i/Hero-Phone-v-012519.jpg") no-repeat center center / cover;
+    width: 100%;
+    padding-bottom: 66.66666666666667%;
+}
+
+.buttons.rw.eq .btn.bgbl.wht {
+    flex-basis: 170px;
+}
+
+.buttons {
+    position: absolute;
+    bottom: 5px;
+    width: 90%;
+    justify-content: flex-end;
+    align-content: flex-end;
+    align-items: flex-end;
+}
+
+.buttons .btn.bgbl.wht {
+    outline: 2px solid #fff;
+    outline-offset: 2px;
+}
+
+.buttons a {
+    display: block;
+    font-size: larger;
+    font-weight: bold;
+    letter-spacing: 0.11em;
+}
+
+@media screen and (orientation: landscape) {
+    #hero {
+        height: 200px;
+        background: url("https://www.metastock.com/images/i/Hero-Phone-h-012519.jpg") no-repeat center center / cover;
+        background-size: 600px 200px;
+    }
+}
+
+@media screen and (min-width: 450px) {
+    #hero {
+        height: 300px;
+        background: url("https://www.metastock.com/images/i/Hero-Tablet-012519.jpg") no-repeat center center / cover;
+        padding-bottom: 41.49377593360996%;
+    }
+
+    .buttons {
+        bottom: 10px;
+    }
+}
+
+@media screen and (min-width: 723px) {
+    #hero {
+        height: 200px;
+        background-image: url("https://www.metastock.com/images/i/Hero-Desktop-012519.jpg");
+        padding-bottom: 47.77777777777778%;
+    }
+
+    .buttons a {
+        display: inline-block;
+    }
+
+    .main-heding.cl {
+        font-size: 5rem;
+        left: 64px;
+    }
+
+    .buttons {
+        position: absolute;
+        bottom: 5px;
+        width: 90%;
+        justify-content: flex-end;
+        align-content: flex-end;
+        align-items: flex-end;
+    }
+
+    .buttons .btn.bgbl.wht {
+        outline: 2px solid #fff;
+        outline-offset: 2px;
+    }
+
+    .buttons a {
+        display: block;
+        font-size: larger;
+        font-weight: bold;
+        letter-spacing: 0.11em;
+    }
+}
+
+@media screen and (orientation: landscape) {
+    #hero {
+        height: 200px;
+        background: url("https://www.metastock.com/images/i/Hero-Phone-h-012519.jpg") no-repeat center center / cover;
+        background-size: 600px 200px;
+    }
+}
+
+@media screen and (min-width: 450px) {
+    #hero {
+        height: 300px;
+        background: url("https://www.metastock.com/images/i/Hero-Tablet-012519.jpg") no-repeat center center / cover;
+        padding-bottom: 41.49377593360996%;
+    }
+
+    .buttons {
+        bottom: 10px;
+    }
+}
+
+@media screen and (min-width: 723px) {
+    #hero {
+        height: 200px;
+        background-image: url("https://www.metastock.com/images/i/Hero-Desktop-012519.jpg");
+        padding-bottom: 47.77777777777778%;
+    }
+
+    .buttons a {
+        display: inline-block;
+    }
+
+    .main-heding.cl {
+        font-size: 5rem;
+        left: 64px;
+    }
+}
