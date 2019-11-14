@@ -6,7 +6,7 @@
 
 This is what shows up below the banner.    e.g. "*We've pulled out all the stops for this Online Trading Summit.    Eight industry experts ..."*
 
-![Overview](https://raw.githubusercontent.com/llihak/Gregs-Forum-Code/master/web%20content/mktg/summit/forum-overview-Online%20Traders%20Summit.png)
+![Overview](https://raw.githubusercontent.com/llihak/Gregs-Forum-Code/master/web%20content/images/forum-overview-Online%20Traders%20Summit.png)
 
 
 ## Presenters Swag
@@ -15,4 +15,4 @@ This is what shows up below the banner.    e.g. "*We've pulled out all the sto
 
 This is the presenter swag displayed near the bottom of the page, below the registration form.
 
-![Presenters swag section](https://raw.githubusercontent.com/llihak/Gregs-Forum-Code/master/web%20content/mktg/summit/forum-swag-Online%20Traders%20Summit.png)
+![Presenters swag section](https://raw.githubusercontent.com/llihak/Gregs-Forum-Code/master/web%20content/images/forum-swag-Online%20Traders%20Summit.png)
