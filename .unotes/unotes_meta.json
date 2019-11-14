@@ -91,8 +91,35 @@
               "files": {
                 "readme": 0
               }
+            },
+            "singapore": {
+              "name": "singapore",
+              "isOrdered": true,
+              "folders": {
+                "sessions": {
+                  "name": "sessions",
+                  "isOrdered": true,
+                  "folders": {},
+                  "files": {}
+                }
+              },
+              "files": {
+                "readme": 0
+              }
             }
           },
+          "files": {}
+        },
+        "images": {
+          "name": "images",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "seminar": {
+          "name": "seminar",
+          "isOrdered": true,
+          "folders": {},
           "files": {}
         }
       },
