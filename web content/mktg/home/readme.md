@@ -2,9 +2,8 @@
 
 ## hero
 
-https://forum.metastock.com/posts/t155749-hero-css
-
-https://forum.metastock.com/posts/t155748-hero-button
+- https://forum.metastock.com/posts/t155749-hero-css
+- https://forum.metastock.com/posts/t155748-hero-button
 
 At the very top of the page there is a hero image and usually a cta.
 
@@ -15,11 +14,9 @@ At the very top of the page there is a hero image and usually a cta.
 
 ## featured content
 
-https://forum.metastock.com/posts/t154984-banner-third
-
-https://forum.metastock.com/posts/t154983-banner-second
-
-https://forum.metastock.com/posts/t154982-banner-main
+- https://forum.metastock.com/posts/t154984-banner-third
+- https://forum.metastock.com/posts/t154983-banner-second
+- https://forum.metastock.com/posts/t154982-banner-main
 
 About half way down the page there is a section for featured content.    Seminars, traders-summit, conference, freebook, etc.
 
