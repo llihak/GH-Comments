@@ -1,13 +1,13 @@
 # Content for the Traders-Summit landing page
 
-## Offers: https://forum.metastock.com/posts/t155711-offers
+## Offers
 
 [https://forum.metastock.com/posts/t155709-overview](https://forum.metastock.com/posts/t155709-overview)
 
 This is what shows up below the banner.    e.g. "*We've pulled out all the stops for this Online Trading Summit.    Eight industry experts ..."*
 
 <br>
-![forum - 'summit - overview](https://raw.githubusercontent.com/llihak/Gregs-Forum-Code/master/web%20content/mktg/summit/forum-overview-Online%20Traders%20Summit.png)
+![Overview](https://raw.githubusercontent.com/llihak/Gregs-Forum-Code/master/web%20content/mktg/summit/forum-overview-Online%20Traders%20Summit.png)
 <br>
 ## Presenters Swag
 
