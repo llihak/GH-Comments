@@ -12,4 +12,4 @@ This is what shows up below the banner.    e.g. "*We've pulled out all the sto
 
 This is the presenter swag displayed near the bottom of the page, below the registration form.
 
-![forum - 'summit - MetaStock_com Forum' - forum_metastock_com_topics_727-summit.png](https://raw.githubusercontent.com/llihak/Gregs-Forum-Code/master/web%20content/mktg/summit/forum%20-%20'summit%20-%20MetaStock_com%20Forum'%20-%20forum_metastock_com_topics_727-summit.png)
+![forum - 'summit - MetaStock_com Forum' - forum_metastock_com_topics_727-summit.png](https://raw.githubusercontent.com/llihak/Gregs-Forum-Code/master/web%20content/mktg/summit/forum-overview-Online%20Traders%20Summit.png)
