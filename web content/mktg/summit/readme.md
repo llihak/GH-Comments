@@ -1,6 +1,6 @@
 # Content for the Traders-Summit landing page
 
-## Offers
+## Overview
 
 [https://forum.metastock.com/posts/t155709-overview](https://forum.metastock.com/posts/t155709-overview)
 
