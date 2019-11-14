@@ -1,0 +1,5 @@
+<paymentprofiles cmd="declare @count int; select @count=count(*) from vPaymentProfileFetch2 where [ContactId] = '2-350161'; with v as (select row_number() over( order by CreatedDate desc) as rnum, @count count, [Primary],[Type],[AccountNumberDisplay],[ExpirationMonth],[ExpirationYear],[CardHolderName],[StreetAddress],[City],[State],[PostalCode],[Country],[CreatedDate],[CreatedBy],[UpdatedDate],[UpdatedBy] from vPaymentProfileFetch2 where [ContactId] = '2-350161') select * from v where rnum between 1 and 10000 order by rnum;" where="ContactId = '2-350161'" count="1" src="https://beta.cc.equis.internal:441/contact/creditcards/?c=2-350161">
+    <PaymentProfile rnum="1" count="1" Primary="True" Type="Visa" AccountNumberDisplay="xxxx1111" ExpirationMonth="5" ExpirationYear="2020" CardHolderName="201905080933B 201905080933B" StreetAddress="123" City="201905080933B" State="NE" PostalCode="12345" Country="USA" CreatedDate="5/8/2019 9:34:06 AM" CreatedBy="llihak+201905080933B@gmail.com" UpdatedDate="5/8/2019 9:34:06 AM" UpdatedBy="llihak+201905080933B@gmail.com"/>
+</paymentprofiles>
+
+

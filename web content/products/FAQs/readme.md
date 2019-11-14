@@ -1,7 +1,6 @@
-## Everything you need to know about the product FAQs
+## Addons and which MetaStock version they work on > product FAQs
 
-[displayed on Products FAQs](https://www.metastock.com/products/faqs/)
+Forum post: [https://forum.metastock.com/posts/t154362-Which-versions-of-MetaStock-do-the-MetaStock-Add-Ons-work-on](https://forum.metastock.com/posts/t154362-Which-versions-of-MetaStock-do-the-MetaStock-Add-Ons-work-on)
+Is displayed on the MetaStock.com Products FAQ page: [https://www.metastock.com/products/faqs/](https://www.metastock.com/products/faqs/)
 
-[the forum post](https://forum.metastock.com/postmessage?m=183017)
-
-The main content is inside an html table that cannot be edited in the forum wysiwyg.   Just edit the file here and paste it into the forum post - **CODE VIEW** - NOT wysiwyg view !!!
+The main content is inside an html table that **CANNOT** **be edited in the forum wysiwyg editor**. Just *edit the html here* then *paste it into the forum post* - **CODE VIEW** - *NOT wysiwyg view !!!*

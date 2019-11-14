@@ -1,0 +1,107 @@
+{
+  "name": "",
+  "isOrdered": true,
+  "folders": {
+    "docs": {
+      "name": "docs",
+      "isOrdered": true,
+      "folders": {
+        "img": {
+          "name": "img",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
+      "files": {}
+    },
+    "events": {
+      "name": "events",
+      "isOrdered": true,
+      "folders": {
+        "metastock conferences": {
+          "name": "metastock conferences",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "Online Traders Summit": {
+          "name": "Online Traders Summit",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        }
+      },
+      "files": {
+        "readme": 0
+      }
+    },
+    "web content": {
+      "name": "web content",
+      "isOrdered": true,
+      "folders": {
+        "events": {
+          "name": "events",
+          "isOrdered": true,
+          "folders": {},
+          "files": {}
+        },
+        "products": {
+          "name": "products",
+          "isOrdered": true,
+          "folders": {
+            "FAQs": {
+              "name": "FAQs",
+              "isOrdered": true,
+              "folders": {},
+              "files": {
+                "readme": 0
+              }
+            }
+          },
+          "files": {}
+        },
+        "mktg": {
+          "name": "mktg",
+          "isOrdered": true,
+          "folders": {
+            "home": {
+              "name": "home",
+              "isOrdered": true,
+              "folders": {},
+              "files": {}
+            },
+            "summit": {
+              "name": "summit",
+              "isOrdered": true,
+              "folders": {
+                "archives": {
+                  "name": "archives",
+                  "isOrdered": true,
+                  "folders": {},
+                  "files": {}
+                },
+                "sessions": {
+                  "name": "sessions",
+                  "isOrdered": true,
+                  "folders": {},
+                  "files": {}
+                }
+              },
+              "files": {
+                "readme": 0
+              }
+            }
+          },
+          "files": {}
+        }
+      },
+      "files": {
+        "readme": 0
+      }
+    }
+  },
+  "files": {
+    "notes": 0
+  }
+}
