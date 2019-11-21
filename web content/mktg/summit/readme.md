@@ -1,6 +1,9 @@
 # Content for the Traders-Summit landing page
 
 ## Just a few things are required for the *website - alias.xml file*.
+
+Create jira ticket and supply the following:
+
 - gtwid - the id in gotowebinar for the summit
 - date of the summit - 
   - so we can expire the page and 
