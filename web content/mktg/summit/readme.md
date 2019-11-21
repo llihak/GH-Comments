@@ -16,7 +16,7 @@ This is what shows up below the banner.    e.g. "*We've pulled out all the sto
 ![Overview](https://raw.githubusercontent.com/llihak/Gregs-Forum-Code/master/web%20content/images/forum-summit-overview.png)
 
 
-## Presenters Swag
+## Offers (Presenters Swag)
 
 [https://forum.metastock.com/posts/t155711-offers](https://forum.metastock.com/posts/t155711-offers)
 
