@@ -8,7 +8,7 @@ Create jira ticket and supply the following:
 - date of the summit - 
   - so we can expire the page and 
   - set CID activity due date
-  - update the overview text
+  - update the heading below the banner
 
 ## Overview
 
