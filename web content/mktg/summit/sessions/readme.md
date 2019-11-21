@@ -1,6 +1,6 @@
 # Summit Sessions
 
-There is an html file for each session named in the following format *in the forum*:
+There is an html file *in the forum* for each session named in the following format:
 session title - presenter's name - time
 
 e.g. 
