@@ -1,5 +1,12 @@
 # Content for the Traders-Summit landing page
 
+## Just a few things are required for the *website - alias.xml file*.
+- gtwid - the id in gotowebinar for the summit
+- date of the summit - 
+  - so we can expire the page and 
+  - set CID activity due date
+  - update the overview text
+
 ## Overview
 
 [https://forum.metastock.com/posts/t155709-overview](https://forum.metastock.com/posts/t155709-overview)
