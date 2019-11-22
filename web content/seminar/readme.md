@@ -24,7 +24,7 @@ In the following format:
 ````
 
 ---
-### *content page*
+### *content post*
 
 The main blurb.
 
