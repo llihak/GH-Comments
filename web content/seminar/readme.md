@@ -8,9 +8,11 @@
 
 ----
 ## ***forum***
+https://forum.metastock.com/topics/763-seminar
 
 ---
 ### *sessions folder*
+https://forum.metastock.com/topics/764-sessions
 
 In the following format:
 
@@ -25,6 +27,7 @@ In the following format:
 
 ---
 ### *content post*
+https://forum.metastock.com/posts/t155755-content
 
 The main blurb.
 
