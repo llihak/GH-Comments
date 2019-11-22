@@ -16,9 +16,8 @@ Config: \cart\promo\alias.xml
 <div  class="session">
    <a  class="loc">MUMBAI</a>
    <a  class="date">February 22, 11 AM - 4:30 PM</a>
-   <a  class="venue">Courtyard MUMBAI Airport - CTS 215, Opposite Carnival Cinemas, Andheri Kurla Road, Andheri East Mumbai, India 400059
-</a>
-<a  class="author">Rahul Mohindar</a>
+   <a  class="venue">Courtyard MUMBAI Airport - CTS 215, Opposite Carnival Cinemas, Andheri Kurla Road, Andheri East Mumbai, India 400059</a>
+   <a  class="author">Rahul Mohindar</a>
 </div>
 ````
 
