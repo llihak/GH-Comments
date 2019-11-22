@@ -3,7 +3,7 @@
 ----
 ## ***MetaStock.com***
 
-- Main content page: \offer\summit\default.aspx
+- Main base content page: \offer\summit\default.aspx
 - Config: \cart\promo\alias.xml
 
 ----
