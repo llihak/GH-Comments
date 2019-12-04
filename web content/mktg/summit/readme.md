@@ -1,6 +1,8 @@
 # Content for the Traders-Summit landing page
 
-## Just a few things are required for the *website - alias.xml file*.
+## MetaStock.com
+
+### Just a few things are required for the *website - alias.xml file*.
 
 Create jira ticket and supply the following:
 
@@ -11,7 +13,10 @@ Create jira ticket and supply the following:
   - update the heading below the banner
 
 ----
-## Overview
+
+## FORUM CONTENT
+
+### Overview
 
 [https://forum.metastock.com/posts/t155709-overview](https://forum.metastock.com/posts/t155709-overview)
 
@@ -21,7 +26,7 @@ This is what shows up below the banner.    e.g. "*We've pulled out all the sto
 
 
 ----
-## Offers (Presenters Swag)
+### Offers (Presenters Swag)
 
 [https://forum.metastock.com/posts/t155711-offers](https://forum.metastock.com/posts/t155711-offers)
 
