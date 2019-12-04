@@ -30,7 +30,7 @@ the post contents needs to have this format (click Source in post editor for htm
 ----
 
 
-On the website, alias.xml is involved.    Here is last year's HongKong2019 entry:
+***ON THE WEBSITE***, alias.xml is involved.    Here is last year's HongKong2019 entry:
 ```xml
 <promo whc="hongkong2019" alias="dyn-summit" expires="2/27/2019" due="2/27/2019" title="Hong Kong Seminar"
 				banner="hongkong2019.jpg" banner-width="1100" banner-height="473" forum="755" overview="155735" sessions="756" >
