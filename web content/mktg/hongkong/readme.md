@@ -10,11 +10,11 @@ each session is a post in the sessions folder.
 
 post titles need to be formated exactly this way:
 
-SESSION TITLE - PRESENTER NAME - TIME
+> SESSION TITLE - PRESENTER NAME - TIME
 
 for example:
 
-Q&A Session - Jeff Gibby - 5:00 PM EST
+> Q&A Session - Jeff Gibby - 5:00 PM EST
 
 the post contents needs to have this format (click Source in post editor for html):
 
