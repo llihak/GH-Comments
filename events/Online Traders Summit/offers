@@ -1,0 +1,15 @@
+<!-- Steve-Bigalow-offer -->
+    <li class="-ls cl pd-lf pd-up bdr-lf bdr-up">
+        <input type="checkbox" name="Steve-Bigalow-offer">
+        <b><span class="btn sm bggrn wht">FREE &nbsp;</span> 1 Week in Steve Bigalow’s Live Trading Room
+        </b>
+        <p>You’ll get access to Steve Bigalow’s live trading room. Plus Steve’s daily market analysis. You’ll be able to choose to access this any of the first three weeks in February.  
+</p>
+     
+     <!-- Thomas-Wood-offer -->
+    </li><li class="-ls cl pd-lf pd-up bdr-lf bdr-up">
+        <input type="checkbox" name="Thomas-Wood-offer">
+        <b><span class="btn sm bggrn wht">FREE &nbsp;</span>“How to Maximize Profits with Renko Charts” eBook by Thomas Wood </b>
+        <p>A common mistake traders make is that they exit profitable trades too soon. Renko Charts help filter out these small corrections so you won’t exit too soon and practically force you to wait for real trade setups and breakouts. In this eBook, Thomas Wood will reveal the simple 5-step trading strategy for using Renko charts for profits.
+</p>
+    </li>
