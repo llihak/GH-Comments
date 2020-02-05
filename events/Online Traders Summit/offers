@@ -1,15 +1,73 @@
+<!-- TASC-offer -->
+    <li class="-ls cl pd-lf pd-up bdr-lf bdr-up">
+        <input type="checkbox" name="TASC-offer">
+        <b><span class="btn sm bggrn wht">FREE &nbsp;</span> One month of Technical Analysis of Stocks & Commodities magazine
+        </b>
+         <p>Technical Analysis of STOCKS & COMMODITIES Magazine has been the premier magazine in the field for many years. It’s a how-to guide for traders – and traders-to-be — who want to play the markets with a concrete game plan. Every issue of STOCKS & COMMODITIES provides the latest, most detailed information on technical trading strategies, charting patterns, indicators, and computerized trading methods.
+
+         </p>
+    </li>
+
+
 <!-- Steve-Bigalow-offer -->
     <li class="-ls cl pd-lf pd-up bdr-lf bdr-up">
         <input type="checkbox" name="Steve-Bigalow-offer">
         <b><span class="btn sm bggrn wht">FREE &nbsp;</span> 1 Week in Steve Bigalow’s Live Trading Room
         </b>
-        <p>You’ll get access to Steve Bigalow’s live trading room. Plus Steve’s daily market analysis. You’ll be able to choose to access this any of the first three weeks in February.  
-</p>
-     
+          <p>You’ll get access to Steve Bigalow’s live trading room. Plus Steve’s daily market analysis. You’ll be able to choose to access this any of the first three weeks in February.  
+        </p>
+     </li>
+
+
      <!-- Thomas-Wood-offer -->
-    </li><li class="-ls cl pd-lf pd-up bdr-lf bdr-up">
+    <li class="-ls cl pd-lf pd-up bdr-lf bdr-up">
         <input type="checkbox" name="Thomas-Wood-offer">
-        <b><span class="btn sm bggrn wht">FREE &nbsp;</span>“How to Maximize Profits with Renko Charts” eBook by Thomas Wood </b>
-        <p>A common mistake traders make is that they exit profitable trades too soon. Renko Charts help filter out these small corrections so you won’t exit too soon and practically force you to wait for real trade setups and breakouts. In this eBook, Thomas Wood will reveal the simple 5-step trading strategy for using Renko charts for profits.
-</p>
+        <b><span class="btn sm bggrn wht">FREE &nbsp;</span> “How to Maximize Profits with Renko Charts” eBook by Thomas Wood </b>
+          <p>A common mistake traders make is that they exit profitable trades too soon. Renko Charts help filter out these small corrections so you won’t exit too soon and practically force you to wait for real trade setups and breakouts. In this eBook, Thomas Wood will reveal the simple 5-step trading strategy for using Renko charts for profits.
+          </p>
     </li>
+
+     <!-- Chuck-Hughes-offer -->
+    <li class="-ls cl pd-lf pd-up bdr-lf bdr-up">
+        <input type="checkbox" name="Chuck-Hughes-offer">
+        <b><span class="btn sm bggrn wht">FREE &nbsp;</span> Subscription to Chuck Hughes’ Trade of the Day daily e-letter</b>
+          <p>This timely letter provides trading insight and top-notch stock analysis using Chuck’s heralded Power Trend System.  Join this exclusive letter today.
+          </p>
+    </li>
+
+     <!-- Todd-Horowitz-offer -->
+    <li class="-ls cl pd-lf pd-up bdr-lf bdr-up">
+        <input type="checkbox" name="Todd-Horowitz-offer">
+        <b><span class="btn sm bggrn wht">FREE &nbsp;</span> 1 month free of Todd Horowitz’ Saturday options trading classes & 1 Month free of his Monday Night Strategy call</b>
+          <p>Join Todd’s Saturday options calls where he builds trades using many different strategies. Usually, 2-3 trades a week that come with daily updates on how to manage them. 
+
+          </p>
+    </li>
+
+    <!-- Hima-Reddy-offer -->
+    <li class="-ls cl pd-lf pd-up bdr-lf bdr-up">
+        <input type="checkbox" name="Hima-Reddy-offer">
+        <b><span class="btn sm bggrn wht">FREE &nbsp;</span> NEW eBook “How to Trade the RSI Effectively” </b>
+          <p>Hima Reddy&rsquo;s dynamic new eBook shows you:</p>
+<ul>
+<li>How to analyze fading momentum and potential turning points</li>
+<li>The key to spotting &ldquo;price peaks&rdquo; so you know when a trend collapse is near</li>
+<li>How to compare "zones" on the RSI with high accuracy</li>
+<li>The exact indicator settings to use to dial in your entries</li>
+<li>And much more</li>
+</ul>
+          
+    </li>
+
+ <!-- Stan-Freifeld-offer -->
+    <li class="-ls cl pd-lf pd-up bdr-lf bdr-up">
+        <input type="checkbox" name="Stan-Freifeld-offer">
+        <b><span class="btn sm bggrn wht">FREE &nbsp;</span> The “Option Strategist” Newsletter</b>
+          <p>In its 28th year of publication, The Option Strategist newsletter remains one of the industry's most respected stock options newsletters. Inside every edition of this weekly newsletter, you'll find market commentary, opinion, and recommendations on option trading and the stock market. From index, to stock and futures options, including general and specific recommendations, The Option Strategist covers it all. 
+
+
+
+          </p>
+    </li>
+
+
